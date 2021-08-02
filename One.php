@@ -15,7 +15,7 @@ $r3=str_split($v);
 //foreach ($r3 as $value) {
 //    return var_dump($value);
 //}
-$r3[];
+print_r($r3);
 
 //echo $v1=str_split(strval($v));
 //print_r (explode(',', str_split((string)$v)));
